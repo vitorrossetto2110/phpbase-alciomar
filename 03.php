@@ -1,2 +1,2 @@
-<p> pablin bala tensa </p>
+ pablin bala tensa
 
