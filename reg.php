@@ -71,6 +71,7 @@ if(isset($_POST['sub'])){
                     <td>
                         Image
                         <input type="file" name="f1">
+                        <img src="<?php echo $imagem[$aleatorio]; ?>"/>
                     </td>
                 </tr>
                 <tr>
